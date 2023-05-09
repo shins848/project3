@@ -1,0 +1,26 @@
+body{
+	background: #c5a95e;
+	color: rgb(0, 0, 0);
+}
+
+
+p {
+	font-size: 1.5rem;
+	margin-left: 53rem;
+	margin-top: 20rem;
+}
+
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 3rem;
+}
+
+.image {
+	transition: filter 0.5s;
+  }
+  
+  .image:hover {
+	filter: grayscale(100%) blur(2px) brightness(50%);
+  }
+
+  
